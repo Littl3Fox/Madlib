@@ -8,8 +8,6 @@
 # print(f"I'm practicing {programing_language}")
 
 
-import string
-
 
 while True:
     try:
